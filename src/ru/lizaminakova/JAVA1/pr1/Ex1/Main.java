@@ -1,6 +1,4 @@
-package ru.lizaminakova.JAVA1.Ex1;
-
-import java.util.Random;
+package ru.lizaminakova.JAVA1.pr1.Ex1;
 
 public class Main {
 

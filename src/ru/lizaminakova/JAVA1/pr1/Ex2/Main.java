@@ -1,4 +1,4 @@
-package ru.lizaminakova.JAVA1.Ex2;
+package ru.lizaminakova.JAVA1.pr1.Ex2;
 
 public class Main {
     public static void main(String[] args) {

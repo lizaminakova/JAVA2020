@@ -1,4 +1,4 @@
-package ru.lizaminakova.JAVA1.Ex4;
+package ru.lizaminakova.JAVA1.pr1.Ex4;
 
 import java.util.Random;
 
